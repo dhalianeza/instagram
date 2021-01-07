@@ -4,8 +4,7 @@
   
 # Description   
 this application will help the user to share pictures and videos  to other user olso will be able to sign up and viw post of other users
-This is a clone of  Instagram where people share their  images and videos for other users to view. 
-Users can sign up, login, view and post photos, search and follow other users.
+ 
 ##  Live Link  
  Click [View Site](https://instalite.herokuapp.com/)  to visit the site
   
