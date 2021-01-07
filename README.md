@@ -56,9 +56,9 @@ python manage.py makemigrations instagram
  python manage.py server 
 
 ##### Testing the application  
- ```bash 
+ 
  python manage.py test 
-```
+
 Open the application on your browser `127.0.0.1:8000`.  
   
   
