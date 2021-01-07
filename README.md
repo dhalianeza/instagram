@@ -37,7 +37,7 @@ To get the project .......
 ##### Install Dependencies  
  
  pip install -r requirements.txt 
-```  
+ 
  ##### Setup Database  
   SetUp your database User,Password, Host then make migrate  
  ```bash 
