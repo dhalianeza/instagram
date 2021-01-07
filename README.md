@@ -76,6 +76,6 @@ Open the application on your browser `127.0.0.1:8000`.
 If you have any question or contributions, 
 contact us[daliaprecious4@gmail.com]  
   
-## License 
+## MIT License
  
-* Copyright (c) 2019 **dalianyiraneza**
+* Copyright (c) 2020**dalianyiraneza**
