@@ -14,7 +14,7 @@ this application will help the user to share pictures and videos  to other user 
  
 ## User Story  
   
-*user will be able to Sign in to the application to start using.  
+* user will be able to Sign in to the application before start using it.  
 * user will be to Upload a pictures to the application. 
 * user will be able to Search for different users using their usernames.  
 * user will be able to See your profile with all your pictures.  
