@@ -78,4 +78,4 @@ contact us[daliaprecious4@gmail.com]
   
 ## License 
  
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2019 **dalianyiraneza**
