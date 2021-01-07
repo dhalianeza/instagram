@@ -52,9 +52,9 @@ python manage.py makemigrations instagram
  python manage.py runserver 
 
 ##### Running the application  
- ```bash 
+ 
  python manage.py server 
-```
+
 ##### Testing the application  
  ```bash 
  python manage.py test 
