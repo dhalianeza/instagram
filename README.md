@@ -18,7 +18,7 @@ this application will help the user to share pictures and videos  to other user 
 * user will be to Upload a pictures to the application. 
 * user will be able to Search for different users using their usernames.  
 * user will be able to See your profile with all your pictures.  
-* Follow other users and see their pictures on my timeline.  
+* user will be able to Follow other users and see their pictures on my timeline.  
   
 
   
