@@ -40,13 +40,13 @@ To get the project .......
  
  ##### Setup Database  
   SetUp your database User,Password, Host then make migrate  
- ```bash 
+ 
 python manage.py makemigrations instagram
- ``` 
+ 
  Now Migrate  
- ```bash 
+ 
  python manage.py migrate 
-```
+
 ##### Run the application  
  ```bash 
  python manage.py runserver 
