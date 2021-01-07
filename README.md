@@ -14,7 +14,11 @@ this application will help the user to share pictures and videos  to other user 
  
 ## User Story  
   
-   
+* Sign in to the application to start using.  
+* Upload a pictures to the application. 
+* Search for different users using their usernames.  
+* See your profile with all your pictures.  
+* Follow other users and see their pictures on my timeline.  
   
 
   
