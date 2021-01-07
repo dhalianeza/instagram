@@ -73,7 +73,8 @@ Open the application on your browser `127.0.0.1:8000`.
 * There are no known bugs everything is working   
   
 ## Contact Information   
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]  
+If you have any question or contributions, 
+contact us[daliaprecious4@gmail.com]  
   
 ## License 
 
