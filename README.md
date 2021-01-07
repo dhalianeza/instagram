@@ -9,13 +9,7 @@ this application will help the user to share pictures and videos  to other user 
   
   
 ## Screenshots 
-###### Home page
  
-<img src="https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/instagram.png">
- 
- ###### user profile
- <img src="https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/profile.png"> 
-
 
  
 ## User Story  
