@@ -25,20 +25,17 @@ this application will help the user to share pictures and videos  to other user 
 ## Setup and Installation  
 To get the project .......  
   
-##### Cloning the repository:  
- ```bash 
- https://github.com/Owiti-Charles/insta-lite.git 
-```
+ 
 ##### Navigate into the folder and install requirements  
- ```bash 
-cd insta-lite pip install -r requirements.txt 
-```
+ 
+ insta-lite pip install -r requirements.txt 
+ 
 ##### Install and activate Virtual  
- ```bash 
-- python3 -m venv virtual - source virtual/bin/activate  
-```  
+ 
+- python3.6 -m venv virtual - source virtual/bin/activate  
+ 
 ##### Install Dependencies  
- ```bash 
+ 
  pip install -r requirements.txt 
 ```  
  ##### Setup Database  
