@@ -7,9 +7,6 @@ this application will help the user to share pictures and videos  to other user 
  
 ##  Live Link  
   https://preciousinsta.herokuapp.com/
-  
-## Screenshots 
- 
 
  
 ## User Story  
